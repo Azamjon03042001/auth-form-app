@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Azamjon03042001/auth-form-app/static/js/main.824037e3.js",
+    "main.js": "/Azamjon03042001/auth-form-app/static/js/main.43863cfb.js",
     "index.html": "/Azamjon03042001/auth-form-app/index.html",
-    "main.824037e3.js.map": "/Azamjon03042001/auth-form-app/static/js/main.824037e3.js.map"
+    "main.43863cfb.js.map": "/Azamjon03042001/auth-form-app/static/js/main.43863cfb.js.map"
   },
   "entrypoints": [
-    "static/js/main.824037e3.js"
+    "static/js/main.43863cfb.js"
   ]
 }
